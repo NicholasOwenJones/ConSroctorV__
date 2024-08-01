@@ -7,6 +7,8 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
 ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░ 
                                                                                        
+
+**README**
 # ConSroctorV
 **>> Run the main.py file to unlock the next clue. <<**
 
@@ -20,6 +22,8 @@ import csv
  \  /\  /| | | | (_| | |_  | \__ \ / /__| (_) | | | |\ \ | | (_) | (__| || (_) | |   \ V /  
   \/  \/ |_| |_|\__,_|\__| |_|___/ \____/\___/|_| |_\__/_|  \___/ \___|\__\___/|_|    \_/   
 --------------------------------------------------------------------------------------------                                                                                            
+
+**What is ConSroctorV**                                                                                                                                                         
                                                                                                                                                            
 As part of a Generation Data Engineering Bootcamp, we were encouraged to do a presentation to the rest of the class about ourselves, a passion or an interest of ours. Simply because of the number of students on the course, we ended up having several days where everyone had presented and there were still spaces to fill, so I volunteered to "present". 
 
