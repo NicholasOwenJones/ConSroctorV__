@@ -8,7 +8,7 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░ 
                                                                                        
 
-**README**
+**README** (open README as RAW to view it correctly if needed)
 # ConSroctorV
 **>> Run the main.py file to unlock the next clue. <<**
 
