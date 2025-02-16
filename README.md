@@ -18,4 +18,5 @@ The treasure hunt takes 30 mins to an hour and I would recommend having groups o
 Apologies in advance if you are playing this in the future and the links have broken.
 
 Best of luck,
+
 Nick
